@@ -11,5 +11,5 @@ Round6: Second around of removing stopwords
         Let's see if there are more words that are better removed
         First join verses together and convert into an array 
         Then put the result in a series so that we can see what are the common used words in the lyrics 
-        And we see there are words such as "oh", "til", "like","til", "ay", "ah", "yeah", "wanna"
+        And we see there are words such as "oh", "til", "like","til", "ay", "ah"
         So we store them in a list and remove those words in the lyrics
